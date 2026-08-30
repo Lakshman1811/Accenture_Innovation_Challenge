@@ -3,7 +3,7 @@
 **Accenture Innovation Challenge 2026 | Team: Golden Retriever | IIT Kharagpur**
 
 Detect -> Decompose -> Decide -> Deliver. A KPI movement is detected statistically,
-broken into quantified drivers, run through a confidence/abstention gate, and
+broken into quantified drivers, run through a confidence/abstention gate,and
 only then handed to an LLM to translate into a persona-specific narrative and
 action plan. The LLM never computes a number — it only writes about numbers
 that deterministic code already produced.
